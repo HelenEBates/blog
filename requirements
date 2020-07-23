@@ -1,0 +1,23 @@
+This project is to practice using Vue JS, the aim of the project is to create a website with useful 
+functionality for a small business to reach their customers online for the first time.
+
+1, As a business owner I want to display basic information about my business on a front page.
+  - Regular customers will recognise us as a business through use of our physical logo, tag lines etc.
+ 
+2, As a business owner I want to add blog posts to our site which show value we can add to our products 
+through our services.
+  - the latest post should appear on our front page
+  
+3, I want to show a calendar of our events
+
+4, Users can log in to a members area
+
+5, Users can book our services
+
+6, Users can search through older blog posts 
+
+7, Users can look at our products
+
+8, Users can add a product to their cart
+
+9, Users can pay for a product
